@@ -7,6 +7,9 @@
   <classes>
   <!--  class name="RestAssuredPracticeOne.ParameterExampleOne"/-->
   <class name="RestAssuredPracticeOne.PostTestOne"/>
+  <class name="RestAssuredPracticeOne.GetTestOne"/>
+  <class name="RestAssuredPracticeOne.GetTestTwo"/>
+  <class name="RestAssuredPracticeOne.GetTestStaticImportOne"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
