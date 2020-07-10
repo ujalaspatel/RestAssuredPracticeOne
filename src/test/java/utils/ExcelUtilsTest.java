@@ -1,8 +1,11 @@
 package utils;
 
+import org.testng.annotations.Test;
+
 public class ExcelUtilsTest {
 
-	public static void main(String[] args) {
+	@Test
+	public void excelUtilityTest() {
 
 		String excelPath="./data/RestAssuredTestData.xlsx";
 		String sheetName="Sheet1";

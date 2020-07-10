@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10317" started-at="2020-07-09T05:43:41 EDT" finished-at="2020-07-09T05:43:52 EDT">
+  <suite name="Default suite" duration-ms="810" started-at="2020-07-10T02:41:07 EDT" finished-at="2020-07-10T02:41:08 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10317" started-at="2020-07-09T05:43:41 EDT" finished-at="2020-07-09T05:43:52 EDT">
-      <class name="RestAssuredPracticeOne.PostTestOne">
-        <test-method status="PASS" signature="test_patch_03()[pri:0, instance:RestAssuredPracticeOne.PostTestOne@7d0587f1]" name="test_patch_03" duration-ms="9353" started-at="2020-07-09T05:43:41 EDT" finished-at="2020-07-09T05:43:51 EDT">
+    <test name="Default test" duration-ms="810" started-at="2020-07-10T02:41:07 EDT" finished-at="2020-07-10T02:41:08 EDT">
+      <class name="utils.ExcelUtilsTest">
+        <test-method status="PASS" signature="excelUtilityTest()[pri:0, instance:utils.ExcelUtilsTest@7d0587f1]" name="excelUtilityTest" duration-ms="771" started-at="2020-07-10T02:41:07 EDT" finished-at="2020-07-10T02:41:08 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_patch_03 -->
-        <test-method status="PASS" signature="test_post_01()[pri:0, instance:RestAssuredPracticeOne.PostTestOne@7d0587f1]" name="test_post_01" duration-ms="449" started-at="2020-07-09T05:43:51 EDT" finished-at="2020-07-09T05:43:51 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test_post_01 -->
-        <test-method status="PASS" signature="test_put_02()[pri:0, instance:RestAssuredPracticeOne.PostTestOne@7d0587f1]" name="test_put_02" duration-ms="407" started-at="2020-07-09T05:43:51 EDT" finished-at="2020-07-09T05:43:52 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test_put_02 -->
-      </class> <!-- RestAssuredPracticeOne.PostTestOne -->
+        </test-method> <!-- excelUtilityTest -->
+      </class> <!-- utils.ExcelUtilsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
