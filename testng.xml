@@ -10,6 +10,7 @@
   <class name="RestAssuredPracticeOne.GetTestOne"/>
   <class name="RestAssuredPracticeOne.GetTestTwo"/>
   <class name="RestAssuredPracticeOne.GetTestStaticImportOne"/>
+  <class name="utils.ExcelUtilsTest"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
